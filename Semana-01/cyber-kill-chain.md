@@ -9,4 +9,4 @@ La **Cyber Kill Chain** de Lockheed Martin describe las 7 fases de un ciberataqu
 6. **Comando y Control**: Comunicarse con el atacante.
 7. **Acciones sobre Objetivos**: Lograr el objetivo (robo, daño).
 
-**Resumen**: Este modelo ayuda a prevenir y detectar ataques en cada etapa.
+ Este modelo ayuda a prevenir y detectar ataques en cada etapa.
