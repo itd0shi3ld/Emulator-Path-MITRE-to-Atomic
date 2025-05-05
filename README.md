@@ -1,5 +1,7 @@
 # Sendero del Emulador: Mes 1 - Fundamentos
 ![Semanas Completadas](https://img.shields.io/badge/Semanas_Completadas-1%2F4-green?style=flat)
+
+
 Este repositorio documenta mi progreso en el Mes 1 del plan "Sendero del Emulador: De MITRE ATT&CK a Atomic Red Team". Aquí encontrarás notas, ejercicios, capturas y entregables relacionados con ciberseguridad, emulación de adversarios y Atomic Red Team.
 
 ## Objetivos
